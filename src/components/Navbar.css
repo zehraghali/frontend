@@ -1,0 +1,15 @@
+/* Navbar.css */
+.navbar-header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px 0; /* Some padding */
+  }
+  
+  .nav-link {
+    color: white; /* White link text */
+    text-decoration: none; /* No underline */
+    margin-right: 15px; /* Space between links */
+  }
+  
+  /* Additional styles can go here */
+  
